@@ -4,7 +4,7 @@ var numberGame = function(nums) {
     for(i=0;i<nums.length;i+=2){
        let alice = nums[i]
        let bob = nums[i+1]
-       result.push(alice,bob)
+       result.push(bob,alice)
     }
     return  result
     
