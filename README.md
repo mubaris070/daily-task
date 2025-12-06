@@ -10,5 +10,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mubaris070/daily-task/tree/master/0027-remove-element) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mubaris070/daily-task/tree/master/3131-find-the-integer-added-to-array-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/mubaris070/daily-task/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
